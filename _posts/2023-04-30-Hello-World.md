@@ -1,0 +1,5 @@
+---
+layout: minimal
+---
+
+Hello world
