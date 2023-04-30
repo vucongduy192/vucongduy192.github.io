@@ -1,5 +1,6 @@
 ---
-layout: minimal
+layout: post
+title: Post 002
 ---
 
-Hello world
+Post 002 content
